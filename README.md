@@ -6,6 +6,8 @@
 ### CRN: 23921
 ### University Of Central Missouri  
 
+## Description:  
+
 Functional Object-Oriented Networks (FOONs) are a knowledge representation system used for robotic task planning and manipulation. This paper presents proposed weighted FOON and task planning algorithms that enable robots and humans to collaboratively complete complex tasks with higher success rates than a human working alone. The algorithms are applied to a recipe graph and the obtained subgraphs represent parts of the recipe that meet specified criteria such as requiring the smallest number of ingredients possible or having the highest success rate for a specific action.  
 
 One of the motivations for developing search algorithms in FOONs is the need to retrieve certain recipes or ingredients when an entire recipe execution is not available for a robot. FOONs provide a quality representation of the relationships between objects and tasks, enabling robots to decipher a task goal and select the correct objects to manipulate.  
